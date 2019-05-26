@@ -25,24 +25,6 @@
 	"tiktopId":"8467490",
 	"appleToken":"2184e3ecee7825e9b09f3b66fbefa169",
         "cucumberSeq": "b26ef4afb088d122cbc92C30mC30nDpOvCpa",
-        "ads": [{
-        "url": "http://www.yabet839.com/",
-        "img": "http://45.76.50.18/yabo_banner.jpg"
-        },{
-        "url": "https://down.cxa56.com/gamecenter-release-android-dashi-6079-9c8c211deacefadd633f097c7a235a6f.apk",
-        "img": "http://45.76.50.18/qp_banner_cps.jpg"
-        },{ 
-	    "url": "http://v88696.com/",
-	    "img": "http://45.76.50.18/wzbanner.jpg"
-	    },{
-        "url": "http://www-yrewhew909.com/",
-        "img": "http://45.76.50.18/biying_banner.jpg"
-        }],
-        "launchAd": {
-        "url": "https://down.rqi17.com/gamecenter-release-android-fuyao-6190-5d3b1afa38d428ff8f4792cf68b3a434.apk",
-        "img": "http://45.76.50.18/jiguang_launch.jpg",
-	"h5":"https://down.rqi17.com/gamecenter-release-android-fuyao-6190-5d3b1afa38d428ff8f4792cf68b3a434.apk"
-        },
     "mEggplantConfig":{
         "device":"random",
         "tokenUrl":"http://www.qzuxgkbal.com"
