@@ -38,12 +38,6 @@
         "url": "http://www-yrewhew909.com/",
         "img": "http://45.76.50.18/biying_banner.jpg"
         }],
-        "launchAd": {
-        "url": "https://down.rqi17.com/gamecenter-release-android-fuyao-6190-5d3b1afa38d428ff8f4792cf68b3a434.apk",
-        "img": "http://45.76.50.18/jiguang_launch.jpg",
-	"h5":"https://down.rqi17.com/gamecenter-release-android-fuyao-6190-5d3b1afa38d428ff8f4792cf68b3a434.apk"
-        },
-        
         "bc1":{
         "name":"棋牌大师",
         "url":"https://down.cxa56.com/gamecenter-release-android-dashi-6079-9c8c211deacefadd633f097c7a235a6f.apk",
@@ -59,10 +53,6 @@
         "tokenUrl":"http://www.qzuxgkbal.com"
     },
     "eggplant":"http://www.qzuxgkbal.com",
-    "textAd":{
-        "img":"点击免费领现金",
-        "url":"https://down.cxa56.com/gamecenter-release-android-dashi-6079-9c8c211deacefadd633f097c7a235a6f.apk"
-    },
     "downInfo":{
 	"versionId":2,
 	"message":"修复下载闪退问题",
